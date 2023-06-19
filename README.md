@@ -3,7 +3,7 @@
 
 ## Description:
 
-A Pac-man game implemented in python using the pygame library, using object-oriented programming, list comprehensions and file I/O. Navigate the player to eat as many dots as possible, while avoiding the 'ghosts' unless you eat a large dot which makes Pac-man immune to the ghosts for a short period of time.
+A Pac-man game implemented in python using the pygame library, with object-oriented programming, list comprehensions and file I/O. Navigate the player to eat as many dots as possible, while avoiding the 'ghosts' unless you eat a large dot which makes Pac-man immune to the ghosts for a short period of time.
 
 Project Structure:
 - main.py
